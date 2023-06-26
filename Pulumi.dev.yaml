@@ -1,0 +1,5 @@
+config:
+  machineType: c2-standard-30
+  osImage: ubuntu-2204-lts
+  name: arm-build
+  instanceTag: builder
